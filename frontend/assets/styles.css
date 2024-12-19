@@ -20,3 +20,9 @@ main {
     width: 80%;
     max-width: 800px;
 }
+
+a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.2em;
+}

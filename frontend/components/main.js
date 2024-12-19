@@ -1,7 +1,7 @@
 const games = [
-    { name: "Snake", link: "snake.html" },
-    { name: "Tic-Tac-Toe", link: "tic-tac-toe.html" },
-    { name: "Minesweeper", link: "minesweeper.html" }
+    { name: "Snake", link: "games/snake.html" },
+    { name: "Tic-Tac-Toe", link: "games/tic-tac-toe.html" },
+    { name: "Minesweeper", link: "games/minesweeper.html" }
 ];
 
 const gameList = document.getElementById('game-list');
